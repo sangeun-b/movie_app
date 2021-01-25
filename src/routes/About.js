@@ -5,8 +5,9 @@ function About() {
     <div className="about__container">
       <p className="about__title">About this app:</p>
       <p className="about__main">
-        Create movie application with React.
-        <br /> Get the movie data from API, sort movies by ratings.
+        Create a movie application with React.
+        <br /> Get movie data from API, sort movies by ratings. <br />
+        If you clcik a movie, you can see the full summary.
       </p>
     </div>
   );
